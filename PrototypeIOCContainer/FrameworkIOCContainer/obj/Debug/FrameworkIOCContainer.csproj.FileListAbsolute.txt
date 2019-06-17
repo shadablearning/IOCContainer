@@ -1,0 +1,6 @@
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\bin\Debug\FrameworkIOCContainer.dll
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\bin\Debug\FrameworkIOCContainer.pdb
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\obj\Debug\FrameworkIOCContainer.csprojAssemblyReference.cache
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\obj\Debug\FrameworkIOCContainer.csproj.CoreCompileInputs.cache
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\obj\Debug\FrameworkIOCContainer.dll
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainer\obj\Debug\FrameworkIOCContainer.pdb

@@ -1,0 +1,10 @@
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\bin\Debug\FrameworkIOCContainerTest.exe.config
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\bin\Debug\FrameworkIOCContainerTest.exe
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\bin\Debug\FrameworkIOCContainerTest.pdb
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\bin\Debug\FrameworkIOCContainer.dll
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\bin\Debug\FrameworkIOCContainer.pdb
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\obj\Debug\FrameworkIOCContainerTest.csprojAssemblyReference.cache
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\obj\Debug\FrameworkIOCContainerTest.csproj.CoreCompileInputs.cache
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\obj\Debug\FrameworkIOCContainerTest.csproj.CopyComplete
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\obj\Debug\FrameworkIOCContainerTest.exe
+C:\Shadab\TryOuts\src\IOCContainer\PrototypeIOCContainer\FrameworkIOCContainerTest\obj\Debug\FrameworkIOCContainerTest.pdb
